@@ -1,0 +1,14 @@
+{
+  "name": "node-mongo-app",
+  "version": "1.0.0",
+  "description": "Node Mongo example blog",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Bryan Sharpley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
